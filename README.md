@@ -1,5 +1,5 @@
 This Project is based on Airline Management System which is made considering the Object Oriented Pardigms.
-C++ is used as the programming language, while the code is run in QT GUI Environment for the UI.
+C++ is used as the programming language, while the code runs in QT GUI Environment for the UI.
 You may require an installed QT environment (free/public) to run this code successfully.
 All the features are executed correctly regarding OOP's. However, there can be some linkage issues with the images or animations insterted for the UI.
 The images issue will not hold any significance to disturbing the main functions of the code, so it should run fine.
